@@ -3,7 +3,7 @@
 Una aplicación web desarrollada como parte del **Challenge de JavaScript** del programa Oracle Next Education (ONE) en colaboración con Alura LATAM.
 
 <h3>¿De que trata?</h3>
-Esta aplicación permite a los usuarios ingresar una lista de nombres para realizar un **sorteo aleatorio** y determinar quién será el **amigo secreto**. Ideal para dinámicas en fiestas, equipos o celebraciones.
+Esta aplicación permite a los usuarios ingresar una lista de nombres para realizar un <b>sorteo aleatorio</b> y determinar quién será el <b>amigo secreto</b>. Ideal para dinámicas en fiestas, equipos o celebraciones.
 
 <br>![sorteo de amigo secreto](assets/captura1.png)
 
@@ -21,12 +21,12 @@ Esta aplicación permite a los usuarios ingresar una lista de nombres para reali
 <h3>Comó utilizar</h3>
 <ol>
   <li>Clona el repositorio:</li>
-  **```bash**
+  <b>```bash</b>
    <br>git clone https://github.com/VictoriaGrageda/amigo-secreto-challenge-one.git
   <li>Abre el archivo index.html en tu navegador de preferencia</li>
  
 </ol>
- *Listo!! hora de juego*
+ <p><b>Listo!! hora de juego</b></p>
 <h3>Autores</h3>
-- *Maria Victoria Grageda Vallejos* [@VictoriaGrageda](https://github.com/VictoriaGrageda)
+- <b>Maria Victoria Grageda Vallejos</b> [@VictoriaGrageda](https://github.com/VictoriaGrageda)
 
